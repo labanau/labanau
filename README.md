@@ -5,9 +5,9 @@
   <br><br>
   <samp>
     <br><br>
-    I am currently looking to secure a Graduate Software Developer position :computer:!
+    Currently working as a Software Engineer :computer:!
     <br><br>
-    I am an enthusiastic, flexible and friendly graduate University of Coventry student :gem:
+    :gem:
   </samp>
 </p>
 
@@ -47,10 +47,8 @@
 
 ### - I'm currently...
 
-- Improving my React Native skills.
-- Learning to develop C# full-stack applications
-- Revising and refreshing my C++ knowledge.
-- Adding databases to my skill set.
+- Outside of to work, developing C# full-stack applications
+- Working with C++ to develop and refactor projects.
 
 ---
 
