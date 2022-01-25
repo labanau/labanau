@@ -57,9 +57,6 @@
 <p align="center"> 
   <i> Let's connect and chat! :incoming_envelope: </i>
 </p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/rokasla/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Linkedin.svg/1200px-Linkedin.svg.png" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
 </p>
 <!--
 **labanau/labanau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
